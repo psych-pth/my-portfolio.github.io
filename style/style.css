@@ -33,7 +33,7 @@ nav {
     z-index: 99;
 }
 
-.nav-content {
+.nav_content {
     max-width: var(--max-width);
     margin: auto;
     padding: 1.5rem 1rem;
